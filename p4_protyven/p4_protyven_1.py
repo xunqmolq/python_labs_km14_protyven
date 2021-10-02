@@ -1,0 +1,16 @@
+#Введення даних
+name = input ("Enter your name: ")
+surname = input ("Enter your surname: ")
+number = input ("Enter your number: ")
+numb_street = input ("Enter street name: ")
+numb_house = input ("Enter house number: ")
+numb_flat = input ("Enter apartment number: ")
+city = input ("Enter city: ")
+index = input ("Enter index: ")
+country = input ("Enter the name of country : ")
+#Вивід даних
+print (name, surname) 
+print (number) 
+print (numb_street, numb_house, numb_flat, city) 
+print (index)
+print (country)
